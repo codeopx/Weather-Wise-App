@@ -7,6 +7,8 @@ import { WEATHER_API_KEY } from '@env'
 import { useGetWeather } from "./src/hooks/useGetWeather"
 import ErrorItem from "./src/components/ErrorItem"
 
+//commit
+
 // api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API key}
 
 const App = () => {
